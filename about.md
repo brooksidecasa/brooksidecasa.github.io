@@ -14,6 +14,8 @@ one of the main factors that drew autumn and corey to brookside was the proximit
 - jean grey: dog
 - loki: dog
 
-## wiki
+## website
 
-this wiki is meant to house (pun intended) little bits of info about the house. brookside is the name of the street the house lives on, and when researching domain names, brookside.casa was the favorite chosen by autumn and corey. it is also referred to as "brookside bungalow," "the brookside house," and "downtown crash pad."
+this website is meant to house (pun intended) little bits of info about the house. brookside is the name of the street the house lives on, and when researching domain names, brookside.casa was the favorite chosen by autumn and corey. it is also referred to as "brookside bungalow," "the brookside house," and "downtown crash pad."
+
+it is hosted on github pages, and the full source code is [available here](https://github.com/brooksidecasa/brooksidecasa.github.io).
