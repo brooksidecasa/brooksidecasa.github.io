@@ -1,10 +1,8 @@
 ---
-date: 2022-12-28
+layout: post
 ---
 
 # beginnings
-
-december 28, 2022
 
 in late 2022, corey sent autumn a zillow listing to a very cute little house downtown. after sleeping on it, the pair decided to take a look at it. the asking price was a bit high, and it needed some work, but it had been on the market for a decent amount of time, and they decided to make a lowball offer.
 
