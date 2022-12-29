@@ -22,8 +22,8 @@ traditional lawns are bad for the environment and invite invasive species. the p
 
 ## self-hosted
 
-- [ ] firefly iii
-- [ ] jellyfin
+- firefly iii
+- jellyfin
 
 ## water line
 
