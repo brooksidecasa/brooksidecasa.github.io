@@ -7,7 +7,13 @@ title: brookside.casa
 
 ## blog
 
-- [2022-12-28](/blog/2022-12-28.html) 
+<ul>
+	{% for post in site.posts %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+	{% endfor %}
+</ul>
 
 ---
 
