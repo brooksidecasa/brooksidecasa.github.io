@@ -1,3 +1,7 @@
+---
+title: about
+---
+
 # about
 
 the land is flat, oblong (short side to street), and backs up to a small creek. the house has four bedrooms: two downstairs and two upstairs. there are two full bathrooms: one downstairs and one upstairs. the second level has vaulted ceilings. there is a large, covered porch on both the front and back of the house. the back yard is fenced in with wooden privacy fence.

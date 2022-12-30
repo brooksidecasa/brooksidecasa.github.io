@@ -1,3 +1,7 @@
+---
+title: projects
+---
+
 # projects
 
 ## fence
@@ -22,8 +26,9 @@ traditional lawns are bad for the environment and invite invasive species. the p
 
 ## self-hosted
 
-- firefly iii
 - jellyfin
+- some kind of personal finance software
+- maybe a to-do list?
 
 ## water line
 
