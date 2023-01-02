@@ -2,6 +2,8 @@
 title: brookside.casa
 ---
 
+# brookside.casa
+
 - [about](/about.html)
 - [projects](/projects.html)
 
