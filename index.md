@@ -9,6 +9,8 @@ title: brookside.casa
 
 ## blog
 
+you can also [subscribe via rss](/feed.xml).
+
 <ul>
 	{% for post in site.posts %}
 		<li>
