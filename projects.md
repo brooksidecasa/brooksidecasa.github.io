@@ -6,7 +6,7 @@ title: projects
 
 ## fence
 
-most of the fence is in good shape, but there are some holes here and there, so corey and autumn will work to mend it rather than replace it entirely. with three dogs, it's imperative the fence is secure for even the smallest of our dogs: an 11 lb. chihuahua mix.
+with three dogs, it's imperative the fence is secure for even the smallest of our dogs: an 11 lb. chihuahua mix. we may need to replace more than initially thought!
 
 ## floors
 
@@ -27,7 +27,7 @@ traditional lawns are bad for the environment and invite invasive species. the p
 ## self-hosted
 
 - jellyfin
-- some kind of personal finance software
+- firefly-iii
 - maybe a to-do list?
 
 ## water line
