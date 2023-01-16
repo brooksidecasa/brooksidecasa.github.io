@@ -12,6 +12,10 @@ most of the fence is in good shape, but there are some holes here and there, so 
 
 prior to move-in, the floors need to be redone. they are just short of falling apart.
 
+## foundation
+
+the foundation has been compromised, so we have somebody coming out to redo the supports and build a retaining wall near some of the exposed footings.
+
 ## garage
 
 the garage has a semi-finished room above it, but it is painted close to black, and the stairwell's insulation is incomplete. there is some flooding near the doorway, which will require a french drain (or similar solution). it also lacks gutters.
@@ -23,12 +27,6 @@ there is currently a short raised bed in the back yard, but its feasibility as a
 ## lawn
 
 traditional lawns are bad for the environment and invite invasive species. the plan is to work with the local community garden to think up some ideas for a more native, more wildlife-friendly yard solution.
-
-## self-hosted
-
-- jellyfin
-- some kind of personal finance software
-- maybe a to-do list?
 
 ## water line
 
