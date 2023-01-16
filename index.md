@@ -9,10 +9,12 @@ title: brookside.casa
 
 ## blog
 
+you can also [subscribe via rss](/feed.xml).
+
 <ul>
 	{% for post in site.posts %}
 		<li>
-			<a href="{{ post.url }}">{{ post.title | downcase }}</a>
+			{{ post.date | date: "%Y-%m-%d" | downcase }}: <a href="{{ post.url }}">{{ post.title | downcase }}</a>
 		</li>
 	{% endfor %}
 </ul>
