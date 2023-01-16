@@ -34,9 +34,8 @@ traditional lawns are bad for the environment and invite invasive species. the p
 
 ## self-hosted
 
-- jellyfin
 - firefly-iii
-- maybe a to-do list?
+- plex server
 
 ## trash
 
