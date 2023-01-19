@@ -2,6 +2,6 @@
 layout: default
 ---
 
-<p><em>{{ page.date | date: "%B %e, %Y" | downcase }}</em></p>
+<p><em>{{ page.date | date: "%B %e, %Y" | downcase }}{% if author %} by {{ author | downcase }}{% endif %}</em></p>
 
 {{ content }}
