@@ -34,6 +34,8 @@ traditional lawns are bad for the environment and invite invasive species. the p
 
 ## self-hosted
 
+need to move these over from corey's old domain.
+
 - firefly-iii
 - plex server
 
