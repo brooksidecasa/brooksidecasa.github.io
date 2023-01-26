@@ -3,8 +3,6 @@ layout: post
 title: "home inspection"
 ---
 
-# home inspection
-
 the loan application has gone off to the underwriters, and the appriasal came back about as expected.
 
 some things we found during the inspection:
