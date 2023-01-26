@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "home inspection"
+author: autumn
 ---
 
 the loan application has gone off to the underwriters, and the appriasal came back about as expected.
