@@ -12,7 +12,7 @@ corey spent his time checking, replacing, and noting which lightbulbs needed to 
 
 the handyman got a good start on the back deck.
 
-<div style="display:flex;gap:1rem;">
+<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-bottom:1em;">
 	<img src="https://i.snap.as/X8QUnZI0.jpeg" alt="view of the back deck with danger tape">
 	<img src="https://i.snap.as/NMZYKtXQ.jpeg" alt="another angle of the same deck">
 	<img src="https://i.snap.as/cWBDjVnH.jpeg" alt="old boards to be thrown away">
