@@ -12,11 +12,15 @@ corey spent his time checking, replacing, and noting which lightbulbs needed to 
 
 the handyman got a good start on the back deck.
 
+<div style="display:flex;">
+
 ![view of the back deck with danger tape](https://i.snap.as/X8QUnZI0.jpeg)
 
 ![another angle of the same deck](https://i.snap.as/NMZYKtXQ.jpeg)
 
 ![old boards to be thrown away](https://i.snap.as/cWBDjVnH.jpeg)
+
+</div>
 
 i set up a guest book for our visitors to doodle in.
 
